@@ -9,8 +9,10 @@ In This Project, we cleaned our data and used several models to extract topics a
 
 The project contains the following parts:
 
-Code: Including the entire code of the project;
+* Code: Including the entire code of the project;
 
-Document: Including the project report;
+* Document: Including the project report;
 
-Data: Including all data used by the project.
+* Data: Including all data used by the project;
+
+* Model: Including all models saved by the project.
